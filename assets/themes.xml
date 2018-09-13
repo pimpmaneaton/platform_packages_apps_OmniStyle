@@ -16,6 +16,12 @@
  -->
 
 <themes>
+	<theme name="Bliss" accent="org.omnirom.theme.accent.bliss"
+           thumbnail="thumbnail_bliss.png" notification="org.omnirom.theme.notification.dark"
+           primary="org.omnirom.theme.primary.bliss"/>
+    <theme name="Bliss Black" accent="org.omnirom.theme.accent.bliss"
+           thumbnail="thumbnail_bliss_black.png" notification="org.omnirom.theme.notification.black"
+           primary="org.omnirom.theme.primary.black"/>
     <theme name="Slutty Pink" accent="org.omnirom.theme.accent.sluttypink"
            thumbnail="thumbnail_slutty_pink.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.darkblue"/>
@@ -28,12 +34,6 @@
     <theme name="Smoked Green" accent="org.omnirom.theme.accent.smokinggreen"
            thumbnail="thumbnail_smoked_green.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.omni"/>
-    <theme name="Bliss" accent="org.omnirom.theme.accent.bliss"
-           thumbnail="thumbnail_bliss.png" notification="org.omnirom.theme.notification.dark"
-           primary="org.omnirom.theme.primary.bliss"/>
-    <theme name="Bliss Black" accent="org.omnirom.theme.accent.bliss"
-           thumbnail="thumbnail_bliss_black.png" notification="org.omnirom.theme.notification.black"
-           primary="org.omnirom.theme.primary.black"/>
     <theme name="Zero Zero" accent="org.omnirom.theme.accent.white"
            thumbnail="thumbnail_zero_zero.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.black"/>
