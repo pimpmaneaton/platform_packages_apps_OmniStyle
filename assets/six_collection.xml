@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2016 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<!-- hour_header must be sorted based on hour
+entry can only be only one of hour or day/month type
+day_header entries have a higher priority then hour entries -->
+
+<daylight_headers>
+    <hour_header hour="1" image="misc_31" />
+    <hour_header hour="2" image="misc_42" />
+    <hour_header hour="3" image="misc_28" />
+    <hour_header hour="4" image="misc_34" />
+    <hour_header hour="5" image="misc_43" />
+    <hour_header hour="6" image="misc_29" />
+    <hour_header hour="7" image="misc_32" />
+    <hour_header hour="8" image="misc_44" />
+    <hour_header hour="9" image="misc_25" />
+    <hour_header hour="10" image="misc_26" />
+    <hour_header hour="11" image="misc_45" />
+    <hour_header hour="12" image="misc_46" />
+    <hour_header hour="13" image="misc_27" />
+    <hour_header hour="14" image="misc_41" />
+    <hour_header hour="15" image="misc_47" />
+    <hour_header hour="16" image="misc_30" />
+    <hour_header hour="17" image="misc_33" />
+    <hour_header hour="18" image="misc_35" />
+    <hour_header hour="19" image="misc_48" />
+    <hour_header hour="20" image="misc_36" />
+    <hour_header hour="21" image="misc_37" />
+    <hour_header hour="22" image="misc_38" />
+    <hour_header hour="23" image="misc_39" />
+    <hour_header hour="0" image="misc_40" />
+</daylight_headers>

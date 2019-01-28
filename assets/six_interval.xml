@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2016 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<!-- hour_header must be sorted based on hour
+entry can only be only one of hour or day/month type
+day_header entries have a higher priority then hour entries -->
+
+<daylight_headers>
+    <change_interval minutes="6" />
+    <list_header image="misc_01" />
+    <list_header image="misc_02" />
+    <list_header image="misc_03" />
+    <list_header image="misc_04" />
+    <list_header image="misc_05" />
+    <list_header image="misc_06" />
+    <list_header image="misc_07" />
+    <list_header image="misc_08" />
+    <list_header image="misc_09" />
+    <list_header image="misc_10" />
+    <list_header image="misc_11" />
+    <list_header image="misc_12" />
+    <list_header image="misc_13" />
+    <list_header image="misc_14" />
+    <list_header image="misc_15" />
+    <list_header image="misc_16" />
+    <list_header image="misc_17" />
+    <list_header image="misc_18" />
+    <list_header image="misc_19" />
+    <list_header image="misc_20" />
+    <list_header image="misc_21" />
+    <list_header image="misc_22" />
+    <list_header image="misc_23" />
+    <list_header image="misc_24" />
+    <list_header image="misc_25" />
+    <list_header image="misc_26" />
+    <list_header image="misc_27" />
+    <list_header image="misc_28" />
+    <list_header image="misc_29" />
+    <list_header image="misc_30" />
+    <list_header image="misc_31" />
+    <list_header image="misc_32" />
+    <list_header image="misc_33" />
+    <list_header image="misc_34" />
+    <list_header image="misc_35" />
+    <list_header image="misc_36" />
+    <list_header image="misc_37" />
+    <list_header image="misc_38" />
+    <list_header image="misc_39" />
+    <list_header image="misc_40" />
+    <list_header image="misc_41" />
+    <list_header image="misc_42" />
+    <list_header image="misc_43" />
+    <list_header image="misc_44" />
+    <list_header image="misc_45" />
+    <list_header image="misc_46" />
+    <list_header image="misc_47" />
+    <list_header image="misc_48" />
+    <list_header image="misc_49" />
+</daylight_headers>
